@@ -75,7 +75,6 @@ You can click the Preview link to take a look at your changes.
         </div>
     </div>
 
-    <!-- Learning -->
 <div class="section">
     <h2>Learning</h2>
     <div class="icons">
