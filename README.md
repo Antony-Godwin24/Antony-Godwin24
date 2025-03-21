@@ -78,10 +78,11 @@ You can click the Preview link to take a look at your changes.
 <div class="section">
     <h2>Learning</h2>
     <div class="icons">
-        <img src="https://img.icons8.com/?size=100&id=69196&format=png&color=000000" alt="jQuery">
-        <img src="https://img.icons8.com/?size=100&id=65231&format=png&color=000000" alt="Bootstrap">
+        <img src="https://img.icons8.com/ios-filled/100/jquery.png" alt="jQuery">
+        <img src="https://img.icons8.com/ios-filled/100/bootstrap.png" alt="Bootstrap">
     </div>
 </div>
+
 
 <!-- IDE and Tools I Use -->
 <div class="section">
