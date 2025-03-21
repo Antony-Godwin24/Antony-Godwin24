@@ -49,7 +49,7 @@ You can click the Preview link to take a look at your changes.
             gap: 15px;
             justify-content: center;
             align-items: center;
-            width: 250px;
+            width: 300px;
         }
         .icons img {
             width: 80px;
@@ -72,25 +72,28 @@ You can click the Preview link to take a look at your changes.
             <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" alt="Java">
             <img src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" alt="C++">
             <img src="https://img.icons8.com/?size=100&id=3tC9EQumUAuq&format=png&color=000000" alt="SQL">
+            <img src="https://img.icons8.com/?size=100&id=AZOZNnY73haj&format=png&color=ffffff" alt="GitHub">
         </div>
     </div>
 
-    <div class="section">
-        <h2>Learning</h2>
-        <div class="icons">
-            <img src="https://img.icons8.com/?size=100&id=69196&format=png&color=000000" alt="jQuery">
-            <img src="https://img.icons8.com/?size=100&id=65231&format=png&color=000000" alt="Bootstrap">
-        </div>
+    <!-- Learning -->
+<div class="section">
+    <h2>Learning</h2>
+    <div class="icons">
+        <img src="https://img.icons8.com/?size=100&id=69196&format=png&color=000000" alt="jQuery">
+        <img src="https://img.icons8.com/?size=100&id=65231&format=png&color=000000" alt="Bootstrap">
     </div>
+</div>
 
-    <!-- IDE and Tools I Use -->
-    <div class="section">
-        <h2>IDE and Tools I Use</h2>
-        <div class="icons">
-            <img src="https://img.icons8.com/?size=100&id=0OQR1FYCuA9f&format=png&color=000000" alt="VS Code">
-            <img src="https://img.icons8.com/?size=100&id=100641&format=png&color=000000" alt="Eclipse">
-        </div>
+<!-- IDE and Tools I Use -->
+<div class="section">
+    <h2>IDE and Tools I Use</h2>
+    <div class="icons">
+        <img src="https://img.icons8.com/?size=100&id=0OQR1FYCuA9f&format=png&color=000000" alt="VS Code">
+        <img src="https://img.icons8.com/?size=100&id=100641&format=png&color=000000" alt="Eclipse">
     </div>
+</div>
+
 </div>
 
 </body>
