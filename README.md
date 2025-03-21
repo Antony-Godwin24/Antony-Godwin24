@@ -20,15 +20,32 @@ aKash-S19/aKash-S19 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 ### I Code In  
-<br />
-<img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" alt="Java">  <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="HTML">  <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" alt="JavaScript">  
-<img src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" alt="Python">  <img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" alt="C">  <img src="https://img.icons8.com/?size=100&id=65231&format=png&color=000000" alt="SQL">  
+<table>
+  <tr>
+    <td><img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" alt="Java"></td>
+    <td><img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="HTML"></td>
+    <td><img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" alt="JavaScript"></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" alt="Python"></td>
+    <td><img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" alt="C"></td>
+    <td><img src="https://img.icons8.com/?size=100&id=65231&format=png&color=000000" alt="SQL"></td>
+  </tr>
+</table>
 
 ### Learning  
-<br />
-<img src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" alt="React">  <img src="https://img.icons8.com/?size=100&id=108792&format=png&color=000000" alt="jQuery">  <img src="https://img.icons8.com/?size=100&id=84710&format=png&color=000000" alt="Bootstrap">  
+<table>
+  <tr>
+    <td><img src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" alt="React"></td>
+    <td><img src="https://img.icons8.com/?size=100&id=108792&format=png&color=000000" alt="jQuery"></td>
+    <td><img src="https://img.icons8.com/?size=100&id=84710&format=png&color=000000" alt="Bootstrap"></td>
+  </tr>
+</table>
 
 ### IDE and Tools I Use  
-<br />
-<img src="https://img.icons8.com/?size=100&id=0OQR1FYCuA9f&format=png&color=000000" alt="VS Code">  <img src="https://img.icons8.com/?size=100&id=100641&format=png&color=000000" alt="Eclipse">  
-
+<table>
+  <tr>
+    <td><img src="https://img.icons8.com/?size=100&id=0OQR1FYCuA9f&format=png&color=000000" alt="VS Code"></td>
+    <td><img src="https://img.icons8.com/?size=100&id=100641&format=png&color=000000" alt="Eclipse"></td>
+  </tr>
+</table>
