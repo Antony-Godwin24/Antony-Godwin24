@@ -21,21 +21,14 @@ You can click the Preview link to take a look at your changes.
 --->
 ### I Code In  
 <br />
-<img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" alt="Java">  
-<img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="HTML">  
-<img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" alt="JavaScript">  
-<img src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" alt="Python">  
-<img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" alt="C">  
-<img src="https://img.icons8.com/?size=100&id=65231&format=png&color=000000" alt="SQL">  
+<img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" alt="Java">  <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="HTML">  <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" alt="JavaScript">  
+<img src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" alt="Python">  <img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" alt="C">  <img src="https://img.icons8.com/?size=100&id=65231&format=png&color=000000" alt="SQL">  
 
 ### Learning  
 <br />
-<img src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" alt="React">  
-<img src="https://img.icons8.com/?size=100&id=108792&format=png&color=000000" alt="jQuery">  
-<img src="https://img.icons8.com/?size=100&id=84710&format=png&color=000000" alt="Bootstrap">  
+<img src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" alt="React">  <img src="https://img.icons8.com/?size=100&id=108792&format=png&color=000000" alt="jQuery">  <img src="https://img.icons8.com/?size=100&id=84710&format=png&color=000000" alt="Bootstrap">  
 
 ### IDE and Tools I Use  
 <br />
-<img src="https://img.icons8.com/?size=100&id=0OQR1FYCuA9f&format=png&color=000000" alt="VS Code">  
-<img src="https://img.icons8.com/?size=100&id=100641&format=png&color=000000" alt="Eclipse">  
+<img src="https://img.icons8.com/?size=100&id=0OQR1FYCuA9f&format=png&color=000000" alt="VS Code">  <img src="https://img.icons8.com/?size=100&id=100641&format=png&color=000000" alt="Eclipse">  
 
