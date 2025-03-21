@@ -78,7 +78,7 @@ You can click the Preview link to take a look at your changes.
 <div class="section">
     <h2>Learning</h2>
     <div class="icons">
-        <img src="https://img.icons8.com/color/100/jquery.png" alt="jQuery">
+        <img src="[https://img.icons8.com/color/100/jquery.png](https://cdn4.iconfinder.com/data/icons/scripting-and-programming-languages/512/JQuery_logo-1024.png)" alt="jQuery">
         <img src="https://img.icons8.com/color/100/bootstrap.png" alt="Bootstrap">
     </div>
 </div>
