@@ -19,33 +19,79 @@
 aKash-S19/aKash-S19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-### I Code In  
-<table>
-  <tr>
-    <td><img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" alt="Java"></td>
-    <td><img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="HTML"></td>
-    <td><img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" alt="JavaScript"></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" alt="Python"></td>
-    <td><img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" alt="C"></td>
-    <td><img src="https://img.icons8.com/?size=100&id=65231&format=png&color=000000" alt="SQL"></td>
-  </tr>
-</table>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Tech Stack</title>
+    <style>
+        body {
+            background-color: #121212;
+            color: white;
+            font-family: Arial, sans-serif;
+            text-align: center;
+        }
+        .container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        .section {
+            margin: 20px 0;
+        }
+        .section h2 {
+            margin-bottom: 10px;
+        }
+        .icons {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 15px;
+            justify-content: center;
+            align-items: center;
+            width: 250px;
+        }
+        .icons img {
+            width: 80px;
+            height: 80px;
+            background-color: #1e1e1e;
+            padding: 10px;
+            border-radius: 10px;
+        }
+    </style>
+</head>
+<body>
 
-### Learning  
-<table>
-  <tr>
-    <td><img src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" alt="React"></td>
-    <td><img src="https://img.icons8.com/?size=100&id=108792&format=png&color=000000" alt="jQuery"></td>
-    <td><img src="https://img.icons8.com/?size=100&id=84710&format=png&color=000000" alt="Bootstrap"></td>
-  </tr>
-</table>
+<div class="container">
+    <!-- I Code In -->
+    <div class="section">
+        <h2>I Code In</h2>
+        <div class="icons">
+            <img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" alt="C">
+            <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="Python">
+            <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" alt="Java">
+            <img src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" alt="C++">
+            <img src="https://img.icons8.com/?size=100&id=3tC9EQumUAuq&format=png&color=000000" alt="SQL">
+        </div>
+    </div>
 
-### IDE and Tools I Use  
-<table>
-  <tr>
-    <td><img src="https://img.icons8.com/?size=100&id=0OQR1FYCuA9f&format=png&color=000000" alt="VS Code"></td>
-    <td><img src="https://img.icons8.com/?size=100&id=100641&format=png&color=000000" alt="Eclipse"></td>
-  </tr>
-</table>
+    <div class="section">
+        <h2>Learning</h2>
+        <div class="icons">
+            <img src="https://img.icons8.com/?size=100&id=69196&format=png&color=000000" alt="jQuery">
+            <img src="https://img.icons8.com/?size=100&id=65231&format=png&color=000000" alt="Bootstrap">
+        </div>
+    </div>
+
+    <!-- IDE and Tools I Use -->
+    <div class="section">
+        <h2>IDE and Tools I Use</h2>
+        <div class="icons">
+            <img src="https://img.icons8.com/?size=100&id=0OQR1FYCuA9f&format=png&color=000000" alt="VS Code">
+            <img src="https://img.icons8.com/?size=100&id=100641&format=png&color=000000" alt="Eclipse">
+        </div>
+    </div>
+</div>
+
+</body>
+</html>
