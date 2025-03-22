@@ -24,41 +24,6 @@ You can click the Preview link to take a look at your changes.
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Tech Stack</title>
-    <style>
-        body {
-            background-color: #121212;
-            color: white;
-            font-family: Arial, sans-serif;
-            text-align: center;
-        }
-        .container {
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-        }
-        .section {
-            margin: 20px 0;
-        }
-        .section h2 {
-            margin-bottom: 10px;
-        }
-        .icons {
-            display: grid;
-            grid-template-columns: repeat(3, 1fr);
-            gap: 15px;
-            justify-content: center;
-            align-items: center;
-            width: 300px;
-        }
-        .icons img {
-            width: 80px;
-            height: 80px;
-            background-color: #1e1e1e;
-            padding: 10px;
-            border-radius: 10px;
-        }
-    </style>
 </head>
 <body>
 
