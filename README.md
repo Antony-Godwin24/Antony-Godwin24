@@ -11,7 +11,7 @@
 ---
 
 ### 🛠 About Me  
-- 🔭 Currently working on **[Student Record Management](https://github.com/Antony-Godwin24/react-express-crud-students)**  
+- 🔭 Currently working on **[Students Record Management Full Stack App](https://github.com/Antony-Godwin24/react-express-crud-students)**  
 - 🌱 Learning **MERN Full-Stack Development**  
 - 📫 Reach me at **antonygodwin08@gmail.com**  
 
