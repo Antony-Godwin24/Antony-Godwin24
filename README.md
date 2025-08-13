@@ -19,7 +19,7 @@
 
 ### 🌐 Connect with Me  
 <p align="left">
-  <a href="https://linkedin.com/in/antony godwin s" target="_blank">
+  <a href="https://www.linkedin.com/in/antony-godwin-s-7143ab2a4/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
   <a href="https://www.leetcode.com/antony_godwin" target="_blank">
@@ -64,7 +64,5 @@
 
 ### 🐍 GitHub Contribution Snake  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Antony-Godwin24/Antony-Godwin24/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Antony-Godwin24/Antony-Godwin24/output/snake.svg" alt="Snake animation" />
 </p>
-
----
