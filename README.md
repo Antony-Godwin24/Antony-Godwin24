@@ -1,8 +1,7 @@
-<h1 align="center">Hi 👋, I'm Antony Godwin S</h1>
-<h3 align="center">🚀 Pre-final Year B.E. CSE Student | MERN Full-Stack Developer</h3>
+<h1 align="center">Hi, I'm Antony Godwin S</h1>
+<h3 align="center">🚀 Pre-final Year B.E. CSE Student | MERN & Cross-Platform Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=antony-godwin24&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=antony-godwin24&theme=algolia&margin-w=10&margin-h=10" alt="Trophies" />
   </a>
@@ -11,9 +10,9 @@
 ---
 
 ### 🛠 About Me  
-- 🔭 Currently working on **[Students Record Management Full Stack App](https://github.com/Antony-Godwin24/react-express-crud-students)**  
-- 🌱 Learning **MERN Full-Stack Development**  
-- 📫 Reach me at **antonygodwin08@gmail.com**  
+- 🌱 Building **Full-Stack & Cross-Platform Applications** (Web + Mobile)  
+- 💡 Exploring seamless backend integrations using **Spring Boot**  
+- 📫 Reach me at **antonygodwin08@gmail.com**
 
 ---
 
@@ -29,20 +28,20 @@
 
 ---
 
-### 🧰 Languages & Tools  
+### 🧠 Tech Stack  
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
+  <!-- Priority Order: React.js, Spring Boot, Java, Angular, React Native, Node.js, Express.js, MySQL, PostgreSQL, MongoDB -->
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45" title="React.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" width="45" height="45" title="Spring Boot"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" title="Java"/>
+  <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="45" height="45" title="Angular"/>
+  <img src="https://reactnative.dev/img/header_logo.svg" width="45" height="45" title="React Native"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45" title="Node.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="45" height="45" title="Express.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" title="MySQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="45" height="45" title="PostgreSQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45" height="45" title="MongoDB"/>
 </p>
 
 ---
