@@ -18,16 +18,12 @@
 
 ### 🌐 Connect with Me  
 ### 🌐 Connect with Me  
+### 🌐 Connect with Me  
 <p align="left">
-  <a href="https://www.linkedin.com/in/antony-godwin-s-7143ab2a4/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="25" width="30" />
-    LinkedIn
-  </a><br>
-  <a href="https://www.leetcode.com/antony_godwin" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="25" width="30" />
-    LeetCode
-  </a>
+  <a href="https://www.linkedin.com/in/antony-godwin-s-7143ab2a4/" target="_blank">🔗 LinkedIn</a><br>
+  <a href="https://www.leetcode.com/antony_godwin" target="_blank">💻 LeetCode</a>
 </p>
+
 
 
 ---
