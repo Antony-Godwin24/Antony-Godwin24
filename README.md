@@ -15,10 +15,6 @@
 - 📫 Reach me at **antonygodwin08@gmail.com**
 
 ---
-
-### 🌐 Connect with Me  
-### 🌐 Connect with Me  
-### 🌐 Connect with Me  
 <p align="left">
   <a href="https://www.linkedin.com/in/antony-godwin-s-7143ab2a4/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
