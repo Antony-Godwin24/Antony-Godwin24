@@ -25,24 +25,29 @@
 </p>
 
 
+---
 
+### 🧠 Tech Stack  
+<p align="left">
+  <!-- Priority Order: React.js, Spring Boot, Java, Angular, React Native, Node.js, Express.js, MySQL, PostgreSQL, MongoDB -->
 
-
-
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=antony-godwin24&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=antony-godwin24&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=antony-godwin24&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45" title="React.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" width="45" height="45" title="Spring Boot"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" title="Java"/>
+  <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="45" height="45" title="Angular"/>
+  <img src="https://reactnative.dev/img/header_logo.svg" width="45" height="45" title="React Native"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45" title="Node.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="45" height="45" title="Express.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" title="MySQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="45" height="45" title="PostgreSQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45" height="45" title="MongoDB"/>
 </p>
 
 ---
+
+
+
+
 
 ### 🐍 GitHub Contribution Snake  
 <p align="center">
