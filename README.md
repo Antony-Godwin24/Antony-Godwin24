@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Antony Godwin S</h1>
-<h3 align="center">🚀 Pre-final Year B.E. CSE Student | MERN & Cross-Platform Developer</h3>
+<h3 align="center">Pre-final Year B.E. CSE Student | MERN & Cross-Platform Developer</h3>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=antony-godwin24&theme=algolia&margin-w=10&margin-h=10" alt="Trophies" />
   </a>
-</p>
+</p> -->
 
 ---
 
