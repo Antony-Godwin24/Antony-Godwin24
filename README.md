@@ -1,23 +1,24 @@
 <div align="center">
   <h1>ANTONY GODWIN S</h1>
-  <p><strong>AWS Certified Full Stack Developer | 3rd Year B.E. Computer Science and Engineering</strong></p>
+  <p><em>"The best professional in this world is useless if no one can find them."</em></p>
+  <p><strong>AWS Certified Cloud Practitioner | 3rd Year Bachelor of Engineering in Computer Science</strong></p>
   <p>Building production-ready systems that turn complex learning into measurable outcomes.</p>
 
   <p>
-    <a href="https://www.linkedin.com/in/antony-godwin-s-7143ab2a4/">LinkedIn</a> | 
-    <a href="mailto:antonygodwin08@gmail.com">Email</a> | 
-    <a href="https://leetcode.com/u/Antony_Godwin/">LeetCode</a>
+    <a href="https://www.linkedin.com/in/antony-godwin-s-7143ab2a4/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:antonygodwin08@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://leetcode.com/u/Antony_Godwin/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
   </p>
 </div>
 
 ---
 
-### Professional Core
-I am a Full Stack Developer specialized in React.js, Node.js, and Spring Boot. My engineering approach is defined by Product Mindedness—creating solutions that solve specific user bottlenecks.
+### Professional Overview
+I am a Full Stack Developer specialized in **React.js**, **Node.js**, and **Spring Boot**. My engineering approach is defined by "Product Mindedness"—architecting solutions that solve specific user bottlenecks and technical gaps.
 
 - **Zoho Internship Experience**: Engineered scalable frontend and backend modules in a high-intensity production environment.
-- **AWS Certified**: Focused on architecting reliable, high-availability systems on the cloud.
-- **Academic Foundation**: Pursuing Bachelor of Engineering in Computer Science (2023-2027) at K. Ramakrishnan College of Engineering, Trichy.
+- **AWS Certified**: Specialized in cloud infrastructure as a **Certified Cloud Practitioner**.
+- **Academic Foundation**: Pursuing Bachelor of Engineering in Computer Science (2023-2027) at **K. Ramakrishnan College of Engineering, Trichy**.
 
 ---
 
@@ -26,54 +27,56 @@ I am a Full Stack Developer specialized in React.js, Node.js, and Spring Boot. M
 **Patent Applied (2024)**: *A System For Enhancing Quality Of Water Can Through QR Code*.  
 Bridging the gap between hardware tracking and public health monitoring.
 
-#### [Claridux](https://github.com/Antony-Godwin24/MyPortfolio) (Job Readiness System)
-I built Claridux to solve a challenge I faced personalmente: the difficulty of navigating abstract studies without a clear roadmap. It uses a Personalized Roadmap System (PRS) and Skill Gap Analysis to provide a clear, actionable path to professional readiness.
+#### [Claridux](https://github.com/Antony-Godwin24/MyPortfolio) (AI-Driven Job Readiness)
+Built to solve the personal challenge of navigating abstract studies, Claridux uses a **Personalized Roadmap System (PRS)** and **Skill Gap Analysis** to provide a clear, actionable path to professional readiness.
 
 ---
 
-### Technical Expertise
-<table align="center" width="100%">
-  <tr>
-    <td align="left" width="33%">
-      <strong>Frontend</strong><br/>
-      <ul>
-        <li>React.js / Next.js</li>
-        <li>Tailwind CSS</li>
-        <li>Material UI</li>
-        <li>HTML5 / CSS3</li>
-        <li>JavaScript (ES6+)</li>
-      </ul>
-    </td>
-    <td align="left" width="33%">
-      <strong>Backend and Data</strong><br/>
-      <ul>
-        <li>Node.js / Express.js</li>
-        <li>Java / Spring Boot</li>
-        <li>PostgreSQL / MySQL</li>
-        <li>MongoDB</li>
-        <li>REST API Design</li>
-      </ul>
-    </td>
-    <td align="left" width="33%">
-      <strong>Tools and Cloud</strong><br/>
-      <ul>
-        <li>AWS (Certified)</li>
-        <li>Git / GitHub</li>
-        <li>Docker</li>
-        <li>Postman</li>
-        <li>System Design</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+### Technical Portfolio
+
+<p align="left">
+  <strong>Languages</strong><br/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+</p>
+
+<p align="left">
+  <strong>Frontend</strong><br/>
+  <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Material_UI-0081CB?style=flat-square&logo=mui&logoColor=white" />
+</p>
+
+<p align="left">
+  <strong>Backend & Databases</strong><br/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+</p>
+
+<p align="left">
+  <strong>Tools & Cloud</strong><br/>
+  <img src="https://img.shields.io/badge/AWS_Certified-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+</p>
 
 ---
 
-### The Code Journey
+### Engineering Activity
 <p align="center">
   <img src="https://raw.githubusercontent.com/Antony-Godwin24/Antony-Godwin24/output/snake.svg" alt="Snake animation" />
 </p>
 
 <div align="center">
-  <sub>Built with precision by ANTONY GODWIN S</sub>
+  <sub>Refined with precision by ANTONY GODWIN S</sub>
 </div>
