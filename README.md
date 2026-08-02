@@ -1,7 +1,7 @@
 <div align="center">
   <h1>ANTONY GODWIN S</h1>
   <p><em>"The best professional in this world is useless if no one can find them."</em></p>
-  <p><strong>AWS Certified Cloud Practitioner | Final Year Bachelor of Engineering in Computer Science</strong></p>
+  <p><strong>Final Year Bachelor of Engineering in Computer Science</strong></p>
   <p>Building production-ready systems that turn complex learning into measurable outcomes.</p>
 
   <p>
